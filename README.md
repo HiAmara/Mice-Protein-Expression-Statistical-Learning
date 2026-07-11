@@ -28,7 +28,10 @@ Link to the dataset: [Mice Protein Expression&](https://archive.ics.uci.edu/data
 
 <div style="display: flex; justify-content: space-around;">
   <img src="Graphs/proportion of NA" alt="Image 1" style="width: 25%;">
-  <img src="Graphs/Features Removed Cutoff.png" alt="Image 2" style="width: 24%;">
+  <img src="Graphs/Features Removed Cutoff" alt="Image 2" style="width: 24%;">
+  <img src="Graphs/Correlation Heatmap across Features" alt="Image 3" style="width: 25%;">
+  <img src="Graphs/Example Proteins Density and QQ Plot" alt="Image 4" style="width: 25%;">
+  
 </div>
 
 # Second Part of the Assignment: Classification with k-NN, SVM, Random Forests and Neural Network 
