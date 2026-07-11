@@ -35,7 +35,7 @@ Link to the dataset: [Mice Protein Expression&](https://archive.ics.uci.edu/data
 </div>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="Graphs/Target Distribution" alt="Image 6" style="width: 30%;">
+  
   <img src="Graphs/PCA" alt="Image 7" style="width: 25%;">
   
 </div>
