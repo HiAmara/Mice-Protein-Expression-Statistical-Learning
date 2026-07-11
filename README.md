@@ -57,6 +57,11 @@ In the first part we established a baseline using Gaussian models (LDA, QDA, Nai
 
 Every model introduced in this part outperformed the best previous baselines by more than 10 percentage points, with SVM achieving perfect classification on the held-out test set.
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="Graphs/Final Performance Comparison of QDA, Naive Bayes, Logistic Regression and LDA" alt="Image 4" style="width: 25%;">
+  <img src="Graphs/ROC curves of final classifiers.png" alt="Image 5" style="width: 25%;">
+</div>
+
 ## Methodology
 
 **Rigorous hyperparameter tuning.** k-NN and SVM were tuned via 5-fold cross-validated grid search. Rather than selecting the configuration with the highest raw accuracy which can be prone to favoring unstable, overfit models such as k=1, we applied the **One-Standard-Error Rule**. We select the simplest model whose accuracy remained within one standard error of the best result.
