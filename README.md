@@ -26,6 +26,11 @@ Link to the dataset: [Mice Protein Expression&](https://archive.ics.uci.edu/data
 - Reasonable normality of top discriminative features (validated via Q-Q plots), supporting Gaussian model assumptions
 - PCA reveals substantial overlap between classes in low dimensions (10–17 PCs needed for 80–90% variance) which justifies the use of multivariate probabilistic models over simple linear separators
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="Graphs/proportion of NA.png" alt="Image 1" style="width: 25%;">
+  <img src="Graphs/Features Removed Cutoff.png" alt="Image 2" style="width: 24%;">
+</div>
+
 # Second Part of the Assignment: Classification with k-NN, SVM, Random Forests and Neural Network 
 
 ## Overview
