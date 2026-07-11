@@ -31,9 +31,9 @@ Link to the dataset: [Mice Protein Expression&](https://archive.ics.uci.edu/data
   <img src="Graphs/Features Removed Cutoff" alt="Image 2" style="width: 24%;">
   <img src="Graphs/Correlation Heatmap across Features" alt="Image 3" style="width: 25%;">
   <img src="Graphs/Example Proteins Density and QQ Plot" alt="Image 4" style="width: 25%;">
-  <img src="Graphs/Espression Profiles of the top ten predictor proteins" alt="Image 3" style="width: 25%;">
-  <img src="Graphs/Target Distribution" alt="Image 4" style="width: 25%;">
-  <img src="Graphs/PCA" alt="Image 4" style="width: 25%;">
+  <img src="Graphs/Espression Profiles of the top ten predictor proteins" alt="Image 5" style="width: 25%;">
+  <img src="Graphs/Target Distribution" alt="Image 6" style="width: 25%;">
+  <img src="Graphs/PCA" alt="Image 7" style="width: 25%;">
 
 
   
